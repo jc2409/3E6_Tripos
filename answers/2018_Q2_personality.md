@@ -65,23 +65,27 @@ In summary, while the MBTI remains popular due to its simplicity and non-judgmen
 
 ### (c) Why does personality matter in organisations? [40%]
 
-Personality matters in organisations because individual personality traits have demonstrable associations with a wide range of organisationally relevant outcomes, including job performance, leadership emergence, job satisfaction, teamwork, and career success.
+Personality matters in organisations because individual traits have demonstrable links to key organisational outcomes
+including job performance, leadership, satisfaction, and teamwork.                                                  
+                                                                                                           
+The Big Five traits each predict specific outcomes. Conscientiousness is the strongest overall predictor of job      
+performance — highly conscientious employees develop greater job knowledge, exhibit more organisational citizenship
+behaviours (OCBs), and engage in fewer counterproductive work behaviours (CWBs). Extraversion predicts leadership    
+emergence and career success, primarily through the positive emotions extroverts experience and their social
+adeptness. Emotional stability is most strongly linked to job and life satisfaction and reduced burnout. Openness
+predicts creativity, innovation, and adaptability to organisational change. Agreeableness predicts performance in
+interpersonal roles such as customer service, though at the cost of lower career earnings due to reduced
+assertiveness.
 
-**Conscientiousness and Job Performance:** Conscientiousness is the best overall predictor of job performance. Employees who score higher in conscientiousness develop higher levels of job knowledge, display higher levels of organisational citizenship behaviour (OCB), and are less likely to engage in counterproductive work behaviours (CWBs). They are more adaptable to changing task demands and engage in fewer unsafe behaviours. Research on CEO candidates in private equity firms (Kaplan et al., 2012) found that conscientiousness-related traits — persistence, attention to detail, efficiency, and setting high standards — were more important to success than other traits. However, extremely high conscientiousness can lead to perfectionism, reduced creativity, and diminished happiness, demonstrating the importance of balance.
+Beyond individual performance, personality shapes person-organisation fit (Schneider, 1987). People are attracted to,
+selected by, and retained by organisations that match their values — and leave those that do not. Over time, this
+attraction-selection-attrition cycle produces relative personality homogeneity within organisations, directly shaping
+organisational culture. Holland's personality-job fit theory further demonstrates that congruence between
+personality type and occupational environment predicts job satisfaction and reduces turnover.
 
-**Extraversion and Leadership:** Extraversion is a relatively strong predictor of leadership emergence and leadership behaviours in groups. Extroverts experience a small but persistent advantage in their jobs and careers, primarily due to the positive emotions they experience and their adeptness in social interaction. However, extroverts can also appear domineering and prone to risk-taking, and the relationship with effective leadership may be driven by specific agentic (bold, assertive) rather than affiliative (warm, sociable) aspects.
-
-**Emotional Stability and Well-being:** Emotional stability is most strongly related to life satisfaction and job satisfaction, as well as reduced burnout and intentions to quit. People with high emotional stability can better adapt to unexpected or changing demands, while those with low emotional stability may experience work-family conflict, ostracism, and burnout.
-
-**Openness and Adaptability:** Open individuals tend to be more creative and innovative, more effective leaders, and more comfortable with ambiguity. They cope better with organisational change and are less susceptible to performance decline over a longer time period.
-
-**Agreeableness and Interpersonal Outcomes:** Agreeable individuals perform better in interpersonally oriented jobs such as customer service, experience less work-family conflict, and are less susceptible to turnover. They also engage in more OCBs and fewer CWBs. However, agreeableness is associated with lower levels of career success (especially earnings), perhaps because highly agreeable people are less willing to assert themselves.
-
-Beyond individual traits, personality matters at the organisational level through **person-organisation fit** and the **attraction-selection-attrition (ASA) cycle** (Schneider, 1987). People are attracted to and selected by organisations that match their values, and they leave organisations that are not compatible with them. Over time, this process leads to relative homogeneity of personalities within organisations, shaping organisational culture and identity. For instance, extroverts fit well with organisations that value relationships and socialisation. Holland's personality-job fit theory further demonstrates that the match between personality type and occupational environment determines satisfaction and turnover — when there is a good fit, individuals experience higher job satisfaction, organisational commitment, and lower intentions to quit.
-
-Finally, other personality attributes relevant to organisations include **core self-evaluations** (CSEs) — people with positive CSEs set more ambitious goals, are more committed to reaching them, and perform better; **self-monitoring** — high self-monitors receive better performance ratings and are more likely to emerge as leaders; and **proactive personality** — proactive individuals have higher levels of job performance, creativity, and career success.
-
-In conclusion, personality is not merely an academic concept but a practically significant factor that influences virtually every aspect of organisational life, from individual performance to team dynamics to the culture of the organisation as a whole.
+In conclusion, personality is not merely an academic concept — it influences individual performance, team dynamics,  
+leadership, and organisational culture, making it one of the most practically significant variables in organisational
+behaviour.  
 
 ---
 
